@@ -1,4 +1,4 @@
-## Hi there! 👋 I’m Lawal, a software engineering at Semicolon, passionate about technology and computational linguistics.
+## Hi there! 👋 I’m Lawal, a software engineer trainee at Semicolon, passionate about technology and computational linguistics.
 I enjoy solving complex problems, learning new technologies, and collaborating with other engineers.
 
 <!--
