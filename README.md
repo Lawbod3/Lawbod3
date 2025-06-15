@@ -22,19 +22,23 @@ Skills: Algorithms, data structures, API development, UI/UX simplification
 👯 Open to Collaborate: On open-source projects in full-stack development, automation, or software testing.
 
 📚 Featured Projects
- Pinned below
+
+[Project Name]: A full-stack application addressing [problem]. ([Link to repo])
+[Project Name]: A project exploring [concept]. ([Link to repo])
+Explore my repositories for more exciting work!
 
 🌐 Connect with Me
 
-📧 Email: [lawalsulaimon003@gmail.com]
-💼 LinkedIn: 
-🐦 X: 
-🌍 Portfolio: 
+📧 Email: [lawal@example.com]
+💼 LinkedIn: [linkedin.com/in/lawal]
+🐦 X: [@LawalXHandle]
+🌍 Portfolio: [lawalportfolio.com]
 
 📊 GitHub Stats
 
 💬 Let’s Talk!
 Have questions about algorithms, full-stack development, or computational linguistics? Want to collaborate on a project that solves real problems? Reach out—I’m ready to build something extraordinary together! 🚀
+
 
 
 
