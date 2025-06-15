@@ -9,10 +9,10 @@ I'm a Software Engineer Trainee at Semicolon, driven by a passion for full-stack
 
 🛠️ Tech Stack
 
-Languages: Java, Python, JavaScript, SQL, HTML, CSS
-Frameworks/Tools: Node.js, React, Spring Boot, Git
+Languages:      
+Frameworks/Tools:    
 Curious About: Web3 and blockchain development
-Environments: macOS, Visual Studio Code, intelli j
+Environments:   
 Skills: Algorithms, data structures, API development, UI/UX simplification
 
 🌱 What I'm Working On
@@ -22,33 +22,21 @@ Skills: Algorithms, data structures, API development, UI/UX simplification
 👯 Open to Collaborate: On open-source projects in full-stack development, automation, or software testing.
 
 📚 Featured Projects
-
-[Contact management]: A full-stack application addressing [problem]. ([Link to repo])
-[Logistic]: A project exploring [concept]. ([Link to repo])
-Explore my repositories for more exciting work!
+ Pinned below
 
 🌐 Connect with Me
 
-📧 Email: [lawalsulaoimon003@gmail.com]
-💼 LinkedIn: []
-🐦 X: []
-🌍 Portfolio: []
+📧 Email: [lawalsulaimon003@gmail.com]
+💼 LinkedIn: 
+🐦 X: 
+🌍 Portfolio: 
 
 📊 GitHub Stats
 
-## 💬 Let’s Talk!
+💬 Let’s Talk!
 Have questions about algorithms, full-stack development, or computational linguistics? Want to collaborate on a project that solves real problems? Reach out—I’m ready to build something extraordinary together! 🚀
-</xai
+
 
 
 <!--
-**Lawbod3/Lawbod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 Current Focus: Mastering Java and Python...
-- 🌱 Languages: Java, Python, JavaScript, SQL, HTML, CSS ...
-- 👯 Open to Collaborate On: Software that is aimed at solving problems ...
-- 💡 My Tech Interests: Machine learning, Automamation, Software Testing, Simplifying apps.... ...
-- 💬 Ask me about Algorithms ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: i love challenging projects ...
--->
