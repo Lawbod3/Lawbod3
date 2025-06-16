@@ -17,7 +17,7 @@ Curious About: Web3 and blockchain development
 Environments:   
 Skills: Algorithms, data structures, API development, UI/UX simplification
 
-🌱 What I'm Working On
+🌱 What I'm Working On : Pinned below
 
 🔭 Mastering: Java and Python for robust backend and full-stack solutions.
 🌍 Planning: Building human utility projects with a focus on user-focused applications.
