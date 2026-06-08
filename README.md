@@ -1,8 +1,8 @@
 ## 👋 Hey, I'm Lawal!
-I'm a Software Engineer Trainee at Semicolon, driven by a passion for full-stack development and solving real-world problems through code. With a deep interest in computational linguistics and a vision to build human utility projects, I’m committed to creating impactful software. I’m also curious about Web3 and excited to explore its potential. When I’m not coding, I’m tackling complex algorithms, learning new tech, or collaborating with fellow engineers to bring ideas to life.
+I'm a Software Engineer  at Semicolon, driven by a passion for full-stack development and solving real-world problems through code. With a deep interest in computational linguistics and a vision to build human utility projects, I’m committed to creating impactful software. I’m also curious about Web3 and excited to explore its potential. When I’m not coding, I’m tackling complex algorithms, learning new tech, or collaborating with fellow engineers to bring ideas to life.
 🚀 About Me
 
-💼 Currently: Sharpening my skills at Semicolon to become a top-tier software engineer.
+💼 Currently: Backend engineer working on EnumVerse.
 🎯 Mission: Develop innovative, human-centric applications that make a difference.
 💡 Tech Interests: Full-stack development, machine learning, automation, software testing, computational linguistics, and intuitive UI/UX.
 ⚡ Fun Fact: I thrive on challenging projects that push my problem-solving skills!
